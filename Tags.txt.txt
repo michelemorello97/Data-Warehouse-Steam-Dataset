@@ -1,0 +1,340 @@
+ID_Tags	Tags
+1	1980s
+2	1990's
+3	2.5D
+4	2D
+5	2D Fighter
+6	360 Video
+7	3D
+8	3D Platformer
+9	3D Vision
+10	4 Player Local
+11	4X
+12	6DOF
+13	Abstract
+14	Action
+15	Action RPG
+16	Action-Adventure
+17	Adventure
+18	Agriculture
+19	Aliens
+20	Alternate History
+21	America
+22	Animation & Modeling
+23	Anime
+24	Arcade
+25	Arena Shooter
+26	Assassin
+27	Atmospheric
+28	Audio Production
+29	Base-Building
+30	Baseball
+31	Basketball
+32	Batman
+33	Battle Royale
+34	Beat 'em up
+35	Beautiful
+36	Benchmark
+37	Bikes
+38	Blood
+39	BMX
+40	Board Game
+41	Bowling
+42	Building
+43	Bullet Hell
+44	Bullet Time
+45	Capitalism
+46	Card Game
+47	Cartoon
+48	Cartoony
+49	Casual
+50	Cats
+51	Character Action Game
+52	Character Customization
+53	Chess
+54	Choices Matter
+55	Choose Your Own Adventure
+56	Cinematic
+57	City Builder
+58	Class-Based
+59	Classic
+60	Clicker
+61	Co-op
+62	Cold War
+63	Colorful
+64	Comedy
+65	Comic Book
+66	Competitive
+67	Controller
+68	Conversation
+69	Crafting
+70	Crime
+71	CRPG
+72	Cult Classic
+73	Cute
+74	Cyberpunk
+75	Cycling
+76	Dark
+77	Dark Fantasy
+78	Dark Humor
+79	Dating Sim
+80	Demons
+81	Design & Illustration
+82	Destruction
+83	Detective
+84	Difficult
+85	Dinosaurs
+86	Diplomacy
+87	Documentary
+88	Dog
+89	Dragons
+90	Drama
+91	Driving
+92	Dungeon Crawler
+93	Dungeons & Dragons
+94	Dystopian 
+95	e-sports
+96	Early Access
+97	Economy
+98	Education
+99	Epic
+100	Experimental
+101	Exploration
+102	Faith
+103	Family Friendly
+104	Fantasy
+105	Fast-Paced
+106	Female Protagonist
+107	Fighting
+108	First-Person
+109	Fishing
+110	Flight
+111	FMV
+112	Football
+113	FPS
+114	Free to Play
+115	Funny
+116	Futuristic
+117	Gambling
+118	Game Development
+119	GameMaker
+120	Games Workshop
+121	God Game
+122	Golf
+123	Gore
+124	Gothic
+125	Grand Strategy
+126	Great Soundtrack
+127	Grid-Based Movement
+128	Gun Customization
+129	Hack and Slash
+130	Hacking
+131	Hand-drawn
+132	Heist
+133	Hex Grid
+134	Hidden Object
+135	Historical
+136	Hockey
+137	Horror
+138	Horses
+139	Hunting
+140	Illuminati
+141	Indie
+142	Intentionally Awkward Controls
+143	Interactive Fiction
+144	Inventory Management
+145	Investigation
+146	Isometric
+147	JRPG
+148	Kickstarter
+149	Lara Croft
+150	LEGO
+151	Lemmings
+152	Level Editor
+153	Linear
+154	Local Co-Op
+155	Local Multiplayer
+156	Logic
+157	Loot
+158	Lovecraftian
+159	Magic
+160	Management
+161	Mars
+162	Martial Arts
+163	Massively Multiplayer
+164	Masterpiece
+165	Match 3
+166	Mature
+167	Mechs
+168	Medieval
+169	Memes
+170	Metroidvania
+171	Military
+172	Mini Golf
+173	Minimalist
+174	Mining
+175	MMORPG
+176	MOBA
+177	Mod
+178	Moddable
+179	Motocross
+180	Motorbike
+181	Mouse only
+182	Movie
+183	Multiplayer
+184	Multiple Endings
+185	Music
+186	Music-Based Procedural Generation
+187	Mystery
+188	Mystery Dungeon
+189	Mythology
+190	Narration
+191	Naval
+192	Ninja
+193	Noir
+194	Nonlinear
+195	NSFW
+196	Nudity
+197	Offroad
+198	Old School
+199	On-Rails Shooter
+200	Online Co-Op
+201	Open World
+202	Otome
+203	Parkour
+204	Parody 
+205	Party-Based RPG
+206	Perma Death
+207	Philisophical
+208	Photo Editing
+209	Physics
+210	Pinball
+211	Pirates
+212	Pixel Graphics
+213	Platformer
+214	Point & Click
+215	Political
+216	Politics
+217	Pool
+218	Post-apocalyptic
+219	Procedural Generation
+220	Programming
+221	Psychedelic
+222	Psychological
+223	Psychological Horror
+224	Puzzle
+225	Puzzle-Platformer
+226	PvP
+227	Quick-Time Events
+228	Racing
+229	Real Time Tactics
+230	Real-Time
+231	Real-Time with Pause
+232	Realistic
+233	Relaxing
+234	Remake
+235	Replay Value
+236	Resource Management
+237	Retro
+238	Rhythm
+239	Robots
+240	Rogue-like
+241	Rogue-lite
+242	Romance
+243	Rome
+244	RPG
+245	RPGMaker
+246	RTS
+247	Runner
+248	Sailing
+249	Sandbox
+250	Satire
+251	Sci-fi
+252	Science
+253	Score Attack
+254	Sexual Content
+255	Shoot 'Em Up
+256	Shooter
+257	Short
+258	Side Scroller
+259	Simulation
+260	Singleplayer
+261	Skateboarding
+262	Skating
+263	Sniper
+264	Snow
+265	Snowboarding
+266	Soccer
+267	Software
+268	Software Training
+269	Sokoban
+270	Souls-like
+271	Space
+272	Space Sim
+273	Spectacle fighter
+274	Spelling
+275	Split Screen
+276	Sports
+277	Star Wars
+278	Stealth
+279	Steampunk
+280	Story Rich
+281	Strategy
+282	Strategy RPG
+283	Stylized
+284	Submarine
+285	Superhero
+286	Supernatural
+287	Surreal
+288	Survival
+289	Survival Horror
+290	Swordplay
+291	Tactical
+292	Tactical RPG
+293	Tanks
+294	Team-Based
+295	Tennis
+296	Text-Based
+297	Third Person
+298	Third-Person Shooter
+299	Thriller
+300	Time Attack
+301	Time Management
+302	Time Manipulation
+303	Time Travel
+304	Top-Down
+305	Top-Down Shooter
+306	Touch-Friendly
+307	Tower Defense
+308	Trading
+309	Trading Card Game
+310	Trains
+311	Turn-Based
+312	Turn-Based Combat
+313	Turn-Based Strategy
+314	Turn-Based Tactics
+315	Twin Stick Shooter
+316	Typing
+317	Underwater
+318	Utilities
+319	Vampire
+320	Video Production
+321	Villain Protagonist
+322	Violent
+323	Visual Novel
+324	Voice Control
+325	Voxel
+326	VR
+327	VR Only
+328	Walking Simulator
+329	War
+330	Wargame
+331	Warhammer 40K
+332	Web Publishing
+333	Werewolves
+334	Western
+335	Word Game
+336	World War I
+337	World War II
+338	Wrestling
+339	Zombies
